@@ -1,0 +1,23 @@
+{
+  "name": "classworkcicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebbJoeseph/ClassworkCICD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebbJoeseph/ClassworkCICD/issues"
+  },
+  "homepage": "https://github.com/WebbJoeseph/ClassworkCICD#readme",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
